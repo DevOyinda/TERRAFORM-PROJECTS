@@ -1,0 +1,6 @@
+[submodule "Terraform-Practice"]
+	path = Terraform-Practice
+	url = https://github.com/DevOyinda/Terraform-Practice.git
+[submodule "terraform-ec2-keypair"]
+	path = terraform-ec2-keypair
+	url = https://github.com/DevOyinda/terraform-ec2-keypair.git
